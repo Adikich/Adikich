@@ -8,12 +8,12 @@ I build things where code meets hardware — robots, sensor kits, mobile apps an
 - 🥇 **1st place — International Robotics Festival "RoboZerde-2025"**, Robo Business Case Hackathon with my team for [CodiScience](https://github.com/Adikich/CodiScience) — I built the web platform, the CodiBox hardware kit and the robot. Plus a special prize from Codiplay
 - 🥇 **City winner — Competitive Programming olympiad**
 - 🥇 **3× city winner — school WorldSkills championship** (mobile app development, MIT App Inventor)
-- Participant of robotics olympiads and tournaments with Arduino / Raspberry Pi projects
+- **WRO 2025** and **RoboLand 2025** participant with [Sunda](https://github.com/Adikich/Sunda-rescue-robot), a rescue robot with computer vision
 
 ## 🔧 What I work with
 
 - **Hardware:** Arduino, Raspberry Pi, sensors (pH, temperature, light), motors, 3D printing
-- **Code:** C++ (Arduino), Python, HTML/CSS/JS, Scratch, MIT App Inventor
+- **Code:** C++ (Arduino), Python (OpenCV, YOLOv8, PySerial, Telegram bots), HTML/CSS/JS, Scratch, MIT App Inventor
 - **Now learning:** AI tools & agents (Claude Code)
 
 ## 🚀 Projects
@@ -21,6 +21,7 @@ I build things where code meets hardware — robots, sensor kits, mobile apps an
 | Project | What it is |
 |---|---|
 | [CodiScience](https://github.com/Adikich/CodiScience) | Hybrid STEM-learning ecosystem: web platform for students and teachers + **CodiBox** Arduino sensor kit + virtual labs in Roblox. 1st place at RoboZerde-2025 |
+| [Sunda](https://github.com/Adikich/Sunda-rescue-robot) | Autonomous firefighter robot: Raspberry Pi + Arduino, **YOLOv8 / OpenCV** people detection, fire & gas sensors, Telegram alerts. WRO 2025, RoboLand 2025 |
 | WALL-E style home robot *(in progress)* | Wheeled talking robot — laptop "brain" first, Raspberry Pi later |
 
 ## 🎯 Beyond code
