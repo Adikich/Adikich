@@ -1,0 +1,32 @@
+# Hi, I'm Adilet 👋
+
+CS student at **Cardiff University (Kazakhstan campus)**, Astana.
+I build things where code meets hardware — robots, sensor kits, mobile apps and EdTech platforms.
+
+## 🏆 Achievements
+
+- 🥇 **1st place — International Robotics Festival "RoboZerde-2025"**, Robo Business Case Hackathon with my team for [CodiScience](https://github.com/Adikich/CodiScience) — I built the web platform, the CodiBox hardware kit and the robot. Plus a special prize from Codiplay
+- 🥇 **City winner — Competitive Programming olympiad**
+- 🥇 **3× city winner — school WorldSkills championship** (mobile app development, MIT App Inventor)
+- Participant of robotics olympiads and tournaments with Arduino / Raspberry Pi projects
+
+## 🔧 What I work with
+
+- **Hardware:** Arduino, Raspberry Pi, sensors (pH, temperature, light), motors, 3D printing
+- **Code:** C++ (Arduino), Python, HTML/CSS/JS, Scratch, MIT App Inventor
+- **Now learning:** AI tools & agents (Claude Code)
+
+## 🚀 Projects
+
+| Project | What it is |
+|---|---|
+| [CodiScience](https://github.com/Adikich/CodiScience) | Hybrid STEM-learning ecosystem: web platform for students and teachers + **CodiBox** Arduino sensor kit + virtual labs in Roblox. 1st place at RoboZerde-2025 |
+| WALL-E style home robot *(in progress)* | Wheeled talking robot — laptop "brain" first, Raspberry Pi later |
+
+## 🎯 Beyond code
+
+International table tennis umpire (WTT Star Contender Astana 2026, WTT Contender Almaty) · tennis · guitar
+
+## 📫 Contact
+
+Telegram: [@Adikich](https://t.me/Adikich)
