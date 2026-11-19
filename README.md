@@ -22,7 +22,7 @@ I build things where code meets hardware — robots, sensor kits, mobile apps an
 |---|---|
 | [CodiScience](https://github.com/Adikich/CodiScience) | Hybrid STEM-learning ecosystem: web platform for students and teachers + **CodiBox** Arduino sensor kit + virtual labs in Roblox. 1st place at RoboZerde-2025 |
 | [Sunda](https://github.com/Adikich/Sunda-rescue-robot) | Autonomous firefighter robot: Raspberry Pi + Arduino, **YOLOv8 / OpenCV** people detection, fire & gas sensors, Telegram alerts. WRO 2025, RoboLand 2025 |
-| WALL-E style home robot *(in progress)* | Wheeled talking robot — laptop "brain" first, Raspberry Pi later |
+| Table Tennis Robot *(in progress)* | My own Arduino ball-launching robot for table tennis training: servo-driven head, 100+ ball box, all spin types and programmable drills (footwork, reaction, speed). Goal: Pongbot-level features for a fraction of the price |
 
 ## 🎯 Beyond code
 
