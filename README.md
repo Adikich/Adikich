@@ -30,4 +30,4 @@ International table tennis umpire (WTT Star Contender Astana 2026, WTT Contender
 
 ## 📫 Contact
 
-Telegram: [@Adikich](https://t.me/Adikich)
+Telegram: [@Adikich](https://t.me/Adikich) · Instagram: [@adikichh](https://www.instagram.com/adikichh/)
