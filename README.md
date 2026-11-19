@@ -13,6 +13,7 @@ I build things where code meets hardware — robots, sensor kits, mobile apps an
 ## 🔧 What I work with
 
 - **Hardware:** Arduino, Raspberry Pi, sensors (pH, temperature, light), motors, 3D printing
+- **Games:** GameMaker, Aseprite (pixel art)
 - **Code:** C++ (Arduino), Python (OpenCV, YOLOv8, PySerial, Telegram bots), HTML/CSS/JS, Scratch, MIT App Inventor
 - **Now learning:** AI tools & agents (Claude Code)
 
@@ -22,6 +23,7 @@ I build things where code meets hardware — robots, sensor kits, mobile apps an
 |---|---|
 | [CodiScience](https://github.com/Adikich/CodiScience) | Hybrid STEM-learning ecosystem: web platform for students and teachers + **CodiBox** Arduino sensor kit + virtual labs in Roblox. 1st place at RoboZerde-2025 |
 | [Sunda](https://github.com/Adikich/Sunda-rescue-robot) | Autonomous firefighter robot: Raspberry Pi + Arduino, **YOLOv8 / OpenCV** people detection, fire & gas sensors, Telegram alerts. WRO 2025, RoboLand 2025 |
+| [Great Nomads](https://github.com/Adikich/Great-Nomads-game) | «Ұлы көшпенділер» — 2D pixel-art game about Kazakh nomadic culture in GameMaker. I did game design, sprites & animations. KazRoboProject-2024 |
 | Table Tennis Robot *(in progress)* | My own Arduino ball-launching robot for table tennis training: servo-driven head, 100+ ball box, all spin types and programmable drills (footwork, reaction, speed). Goal: Pongbot-level features for a fraction of the price |
 
 ## 🎯 Beyond code
